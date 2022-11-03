@@ -1,10 +1,5 @@
-<head>
-    <meta charset="UTF-8">
-    <title>TWIST -after graduation-</title>
-</head>
-
 <body>
-    TWIST<br>
+    TWIST -after graduation-<br>
     冬の企画スターーーーーーーーーーート<br>
     
 
